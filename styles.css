@@ -107,12 +107,12 @@
     transition: bottom 1s, left 1s;
  } */
  
- .images:hover .shape{
+/*  .images:hover .shape{
     bottom: 40px;
  }
 
  .images:hover .pic{
     left: 45%;
  }
-
+*/
 }
